@@ -1,3 +1,8 @@
+## Improvements if more time was allowed:
+- Make Table mobile responsive
+- Allow user to choose which data columns are displayed 
+
+
 ## Tipalti React Starter Template
 
 This is a simplified React starter template configured using [Vite](https://vitejs.dev/guide/), a build tool that aims to provide a faster and leaner development experience.
